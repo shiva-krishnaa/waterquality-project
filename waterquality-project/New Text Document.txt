@@ -1,0 +1,4 @@
+turbidity < 1 clean and > 1 dirty
+ph < 8.5 clean and > 8.5 dirty
+
+conductivity < 800 cleans and > 800 dirty
